@@ -1,0 +1,43 @@
+.html {
+	font-size: 62.5%;
+}
+.main-title {
+	font-family: 'Inconsolata';
+	text-transform: uppercase;
+	font-size: 3.0rem;
+	font-style: italic;
+}
+.navbar {
+	float: right;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+.site-nav {
+	list-style: none;
+	float: right;
+
+
+}
+.site-nav-item {
+	display: block;
+	list-style: none;
+	float: right;
+	padding: 10px;	
+	font-family: "PlayfairDisplay";	
+	text-transform: uppercase;
+	color: black;					
+}
+.site-nav-item a {
+	color: black;
+	font-size: 1.4rem;
+}
+.main-foto {
+	width: 100%;
+}
+.post-foto {
+	width: 100%;
+}
+.tag {
+	display: block;
+}
